@@ -13,3 +13,9 @@ h2 {
 ul, ol{
     background-color: rgb(231, 229, 229);
 }
+.button {
+    background-color: aquamarine;
+}
+.a {
+    text-decoration: none;
+}

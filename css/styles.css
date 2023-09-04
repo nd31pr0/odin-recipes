@@ -10,12 +10,21 @@ h2 {
     color: lightgreen;
     font-weight: 500;
 }
+
 ul, ol{
     background-color: rgb(231, 229, 229);
 }
+
 .button {
     background-color: aquamarine;
 }
-.a {
+.a, a {
     text-decoration: none;
+}
+.ul {
+    list-style-type: none;
+}
+.a1 {
+    display:inline;
+    padding: 140px;
 }
